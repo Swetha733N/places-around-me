@@ -186,5 +186,19 @@ Seeking a worshipful spirit.
 ### Output:
 
 
+![image](https://github.com/Swetha733N/places-around-me/assets/122199934/dbac6771-1edd-48e8-913f-7cd38e73b801)
+
+![image](https://github.com/Swetha733N/places-around-me/assets/122199934/36ce6711-fed2-4084-86b9-da34ade31286)
+
+
+![image](https://github.com/Swetha733N/places-around-me/assets/122199934/a5ab89a3-24a8-420d-8f23-cadfefc9af27)
+
+![image](https://github.com/Swetha733N/places-around-me/assets/122199934/0f483eb8-ad25-4993-8424-ce22b9ec6957)
+
+![image](https://github.com/Swetha733N/places-around-me/assets/122199934/ccbeabd4-5e18-47e4-822c-a999559a897b)
+
+
+
+
 ## Result:
-Write your result
+Thus a website to display details about the places in map is successfully executed and displayed.
